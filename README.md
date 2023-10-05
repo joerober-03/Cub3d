@@ -1,9 +1,9 @@
 # Cub3d
 this is the 42 project Cub3d coded with dferreir.
 
-![alt text](https://github.com/joerober-03/Cub3d/tree/master/img/sc1.png?raw=true)
-
 ![Screenshot](img/sc1.png)
+
+![Screenshot](img/sc2.png)
 
 use make to have the mandotary part
 
